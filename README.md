@@ -6,8 +6,6 @@ Added Chinese fonts.
 
 Changed the background color.
 
-To download, visit the [releases](https://github.com/S4IKO/Silent-theme/releases) page.
-
 ## Copyright & License
 
 Copyright (c) 2013-2014 Ghost Foundation - Released under the MIT License.
