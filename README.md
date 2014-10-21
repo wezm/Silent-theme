@@ -1,5 +1,7 @@
 #Silent
 
+![](http://i.imgur.com/ZELkP1c.png "Silent")
+
 This theme modified from [Casper](https://github.com/TryGhost/Casper/releases), does not include RSS subscribe button.
 
 Added Chinese fonts.
