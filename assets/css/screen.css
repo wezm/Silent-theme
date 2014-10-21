@@ -1142,9 +1142,9 @@ body:not(.post-template) .post-title {
     border-radius: 100%;
     overflow: hidden;
     padding: 6px;
-    background: #fff;
+    background: #f6f6f6;
     z-index: 2;
-    box-shadow: #E7EEF2 0 0 0 1px;
+    box-shadow: #d5dbde 0 0 0 1px;
 }
 
 .author-image .img {
