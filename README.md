@@ -2,9 +2,9 @@
 The silent theme modified from Casper for [Ghost](http://github.com/tryghost/ghost/).
 
 -Remove "Subscribe" from homepage;
--Add open sans font;
--Support Chinese font;
--Support Japanese font.
+-Open sans font added;
+-Chinese font support;
+-Japanese font support.
 
 ## Example
 ![](http://i.imgur.com/9dzek6r.jpg "Silent homepage")
