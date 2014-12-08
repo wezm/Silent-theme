@@ -1,5 +1,5 @@
 # Silent
-The silent theme modify from Casper for [Ghost](http://github.com/tryghost/ghost/).
+The silent theme modified from Casper for [Ghost](http://github.com/tryghost/ghost/).
 
 Remove "Subscribe" from homepage
 Add open sans font;
