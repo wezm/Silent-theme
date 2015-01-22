@@ -27,6 +27,3 @@ The silent theme modified from Casper for [Ghost](http://github.com/tryghost/gho
 
 ## Copyright & License
 Released under the MIT License.
-
-### Feedback
-mail#s4iko.com
