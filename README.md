@@ -4,7 +4,7 @@ The silent theme modified from [Casper](https://github.com/TryGhost/Casper/relea
 - Remove "Subscribe" from all page;
 - Remove "Author image" from post page;
 - Add "Continue reading...";
-- Open sans font added;
+- Open Sans font added;
 - Chinese & Japanese fonts support;
 
 ##Example
