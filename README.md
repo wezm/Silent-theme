@@ -3,6 +3,7 @@
 The silent theme modified from [Casper](https://github.com/TryGhost/Casper/releases) for [Ghost](http://github.com/tryghost/ghost/).
 - Remove "Subscribe" from all page;
 - Remove "Author image" from post page;
+- Add "Continue reading...";
 - Open sans font added;
 - Chinese & Japanese fonts support;
 
@@ -21,8 +22,7 @@ The silent theme modified from [Casper](https://github.com/TryGhost/Casper/relea
 ##How to Add Google Analytics
 1. Get your Google Analytics tracking code from [analytics.google.com](http://analytics.google.com/)
 2. Open up the ```default.hbs``` file in a text editor
-3. You want to add the Google Analytics code inside the ```<head>```. 
-For the Silent theme, we want to add it just below the ```{{ghost_head}}``` and above ```</head>```
+3. Add Google Analytics code below the ```{{ghost_head}}``` and above ```</head>```
 4. Restart Ghost
 
 ## Copyright & License
