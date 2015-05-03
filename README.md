@@ -1,4 +1,4 @@
-#Silent theme 1.2x (support ghost 0.6x)
+#Silent theme 1.2x (Support Ghost 0.6x)
 [Silent theme 1.2x](https://github.com/S4IKO/Silent-theme-1.2)
 
 #Silent (Support Ghost 0.5x)
