@@ -1,4 +1,7 @@
-#Silent
+#Silent theme 1.2x (support ghost 0.6x)
+[Silent theme 1.2x](https://github.com/S4IKO/Silent-theme-1.2)
+
+#Silent (Support Ghost 0.5x)
 
 The silent theme modified from [Casper](https://github.com/TryGhost/Casper/releases) for [Ghost](http://github.com/tryghost/ghost/).
 - Remove "Subscribe" from all page;
