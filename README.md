@@ -1,4 +1,4 @@
-#Silent
+# Silent
 
 The silent theme modified from [Casper](https://github.com/TryGhost/Casper/releases) for [Ghost](http://github.com/tryghost/ghost/).
 
@@ -9,23 +9,20 @@ The silent theme modified from [Casper](https://github.com/TryGhost/Casper/relea
 - Chinese & Japanese fonts support;
 - Show all contents.
 
-##Example
+## Example
+
 ![](http://i.imgur.com/gLwOLNt.jpg "Silent homepage")
+
 ![](http://i.imgur.com/txJJbtA.jpg "Silent post1")
+
 ![](http://i.imgur.com/qoP7wsM.jpg "Silent post2")
 
-##Install
+## Install
 
 - Copy folder "Silent-theme" to "/content/themes",
 - Login->settings->Theme->Select "Silent - 1.2.X"->Save->restart ghost
 - Enjoy!
 
-
-##How to Add Google Analytics
-1. Get your Google Analytics tracking code from [analytics.google.com](http://analytics.google.com/)
-2. Open up the ```default.hbs``` file in a text editor
-3. Add Google Analytics code below the ```{{ghost_head}}``` and above ```</head>```
-4. Restart Ghost
-
 ## Copyright & License
+
 Released under the MIT License.
