@@ -185,7 +185,7 @@ html {
 body {
     height: 100%;
     max-height: 100%;
-    font-family: 'Open Sans','Hiragino Sans GB','Source Sans Pro','Microsoft YaHei',微软雅黑,STHeiti,'WenQuanYi Micro Hei',sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     letter-spacing: 0.01rem;
     font-size: 1.5rem;
     line-height: 1.75em;
@@ -212,7 +212,7 @@ h4, h5, h6 {
     color: #2E2E2E;
     line-height: 1.15em;
     margin: 0 0 0.4em 0;
-    font-family: "Open Sans","Hiragino Sans GB","Source Sans Pro","Microsoft YaHei","微软雅黑","STHeiti","WenQuanYi Micro Hei",sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     text-rendering: geometricPrecision;
 }
 
@@ -338,7 +338,7 @@ mark {
 
 code, tt {
     padding: 1px 3px;
-    font-family: Inconsolata, monospace, sans-serif;
+    font-family: Consolas, Inconsolata, monospace, sans-serif;
     font-size: 0.85em;
     white-space: pre-wrap;
     border: #E3EDF3 1px solid;
@@ -353,7 +353,7 @@ pre {
     border: #E3EDF3 1px solid;
     width: 100%;
     padding: 10px;
-    font-family: Inconsolata, monospace, sans-serif;
+    font-family: Consolas, Inconsolata, monospace, sans-serif;
     font-size: 0.9em;
     white-space: pre;
     overflow: auto;
@@ -523,7 +523,6 @@ body.nav-opened .site-wrapper {
 
 .main-nav a {
     text-decoration: none;
-    font-family: 'Open Sans','Hiragino Sans GB','Source Sans Pro','Microsoft YaHei',微软雅黑,STHeiti,'WenQuanYi Micro Hei',sans-serif ;
 }
 
 /* Navigation */
@@ -698,7 +697,6 @@ body.nav-opened .nav {
     color: #111 !important; /* Overides `.nav a:link, .nav a:visited` colour */
     text-align: center;
     font-size: 12px;
-    font-family: 'Open Sans','Hiragino Sans GB','Source Sans Pro','Microsoft YaHei',微软雅黑,STHeiti,'WenQuanYi Micro Hei',sans-serif;
     text-transform: uppercase;
     text-decoration: none;
     line-height: 35px;
@@ -870,7 +868,6 @@ body.nav-opened .nav {
     font-size: 5rem;
     letter-spacing: -1px;
     font-weight: 700;
-    font-family: 'Open Sans','Hiragino Sans GB','Source Sans Pro','Microsoft YaHei',微软雅黑,STHeiti,'WenQuanYi Micro Hei',sans-serif;
     color: #fff;
 }
 
@@ -879,7 +876,6 @@ body.nav-opened .nav {
     font-size: 2rem;
     line-height: 1.5em;
     font-weight: 400;
-    font-family: 'Open Sans','Hiragino Sans GB','Source Sans Pro','Microsoft YaHei',微软雅黑,STHeiti,'WenQuanYi Micro Hei',sans-serif;
     letter-spacing: 0.01rem;
     color: rgba(255,255,255,0.8);
 }
@@ -975,7 +971,6 @@ body:not(.post-template) .post-title {
 .post-meta {
     display: block;
     margin: 1.75rem 0 0 0;
-    font-family: 'Open Sans','Hiragino Sans GB','Source Sans Pro','Microsoft YaHei',微软雅黑,STHeiti,'WenQuanYi Micro Hei',sans-serif;
     font-size: 1.5rem;
     line-height: 2.2rem;
     color: #9EABB3;
@@ -1324,7 +1319,6 @@ body:not(.post-template) .post-title {
 /* Location, website, and link */
 .author-profile .author-meta {
     margin: 2rem 0;
-    font-family: 'Open Sans','Hiragino Sans GB','Source Sans Pro','Microsoft YaHei',微软雅黑,STHeiti,'WenQuanYi Micro Hei',sans-serif;
     letter-spacing: 0.01rem;
     font-size: 1.7rem;
 }
@@ -1410,7 +1404,6 @@ body:not(.post-template) .post-title {
     padding: 4px 10px 5px;
     text-transform: uppercase;
     font-size: 1.1rem;
-    font-family: 'Open Sans','Hiragino Sans GB','Source Sans Pro','Microsoft YaHei',微软雅黑,STHeiti,'WenQuanYi Micro Hei',sans-serif;
     color: rgba(255,255,255,0.8);
     border: rgba(255,255,255,0.5) 1px solid;
     border-radius: 4px;
@@ -1501,7 +1494,6 @@ body:not(.post-template) .post-title {
     width: 80%;
     max-width: 710px;
     margin: 4rem auto;
-    font-family: 'Open Sans','Hiragino Sans GB','Source Sans Pro','Microsoft YaHei',微软雅黑,STHeiti,'WenQuanYi Micro Hei',sans-serif;
     font-size: 1.3rem;
     color: #9EABB3;
     text-align: center;
@@ -1585,7 +1577,6 @@ body:not(.post-template) .post-title {
     position: relative;
     margin: 8rem 0 0 0;
     padding: 1rem 15px;
-    font-family: 'Open Sans','Hiragino Sans GB','Source Sans Pro','Microsoft YaHei',微软雅黑,STHeiti,'WenQuanYi Micro Hei',sans-serif;
     font-size: 1rem;
     line-height: 1.75em;
     color: #BBC7CC;
